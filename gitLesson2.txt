@@ -1,0 +1,1 @@
+We here using the git lesson 2 on practicing git diff and git checkout.
