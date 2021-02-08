@@ -1,0 +1,9 @@
+Here are git basic commands :
+
+git init                                      : for initialize git directory/repositry
+git status                                 : to knowing the files in working directory and git staging area.
+git add <File Names> or  "."   : adding into local repository from staging area.
+git commit -m "<First time initial commit then later on whatever things added for>"  : adding new functionality or updates.
+git log                                      : looking for each commit made.
+git diff  <File Name>               : overview the different made ins file.
+git checkout <File Name>       : take back previous difference.
